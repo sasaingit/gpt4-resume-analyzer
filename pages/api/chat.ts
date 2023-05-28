@@ -9,6 +9,14 @@ export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse,
 ) {
+
+  const csrfTokenFromHeader = req.headers['x-csrf-token'];
+  const hardcodedCSRFToken = 'CrispBlueHawk45';
+
+  if (!csrfTokenFromHeader || csrfTokenFromHeader !== hardcodedCSRFToken) {
+    return res.status(403).json({ error: 'Invalid CSRF token' });
+  }
+
   const { question, history } = req.body;
 
   console.log('question', question);

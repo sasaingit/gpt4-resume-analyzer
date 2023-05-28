@@ -45,17 +45,6 @@
   color: #6b7280;
 }
 
-.generatebutton {
-  position: absolute;
-  top: 0.87rem;
-  right: 1rem;
-  color: rgb(165, 162, 162);
-  background: none;
-  padding: 0.3rem;
-  border: none;
-  display: flex;
-}
-
 .loadingwheel {
   position: absolute;
   top: 0.2rem;
@@ -70,7 +59,6 @@
 }
 
 .generatebutton:hover {
-  background: #e4575726;
   border-radius: 0.2rem;
 }
 
@@ -110,6 +98,19 @@
   animation-direction: alternate;
   animation-name: loading-gradient;
 }
+
+.buttoncontent {
+  padding: 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.buttoncontent > svg {
+  margin-left: 0.5rem; /* space between the text and the icon */
+}
+
 
 @keyframes loading-gradient {
   0% {
@@ -224,6 +225,51 @@
 .footer a:hover {
   opacity: 0.8;
 }
+
+.select {
+  width: 25vw;
+  padding: 0.5rem;
+  font-size: 1.1rem;
+  border-radius: 0.5rem;
+  border: 1px solid #d9d9e3;
+  background: #ffffff;
+  color: #000;
+  outline: none;
+  margin-left: 0.5rem;
+}
+
+.select:focus {
+  outline: none;
+  border-color: #6b7280;
+  box-shadow: 0 0 0 3px rgba(156, 163, 175, 0.5);
+}
+
+.select:hover {
+  cursor: pointer;
+  border-radius: 0.2rem;
+}
+
+.controls {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 50vw;
+  margin-top: 1rem;
+}
+
+.controls > div {
+  flex-grow: 1;
+}
+
+.controls > div:last-child {
+  margin-right: 0;
+}
+
+.nobreak {
+  white-space: nowrap;
+}
+
+
 
 /* Mobile optimization */
 @media (max-width: 600px) {
