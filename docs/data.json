@@ -1,0 +1,329 @@
+﻿[
+{
+  "name": "Liam Wilson",
+  "description": "With a career spanning over two decades, I am an accomplished actor known for my versatile performances in both film and theater. I have portrayed a wide range of characters, captivating audiences with my depth and authenticity. I am dedicated to bringing compelling stories to life.",
+  "based_in": "Sydney, Australia",
+  "available_for": ["Film", "Theater", "Television", "Voice Acting", "Public Appearances"],
+  "specialist_topics": ["Acting", "Character Development"],
+  "interests": ["Cinema", "Literature", "Travel"],
+  "price_per_hour": "AUD 300"
+},
+
+
+{
+  "name": "Emily Thompson",
+  "description": "As a renowned fashion designer based in Melbourne, I have made waves in the industry with my bold and innovative designs. I draw inspiration from art, culture, and nature to create unique collections that empower individuals to express their personal style.",
+  "based_in": "Melbourne, Australia",
+  "available_for": ["Fashion Shows", "Brand Collaborations", "Fashion Consultations", "Editorial Shoots", "Fashion Events"],
+  "specialist_topics": ["Fashion Design", "Creative Styling"],
+  "interests": ["Art", "Travel", "Sustainable Fashion"],
+  "price_per_hour": "AUD 250"
+},
+
+
+{
+  "name": "Olivia Davies",
+  "description": "With a passion for music and a soulful voice, I have established myself as a prominent singer-songwriter in the Australian music scene. My heartfelt lyrics and captivating melodies have resonated with listeners, and I strive to create music that touches hearts and inspires connection.",
+  "based_in": "Brisbane, Australia",
+  "available_for": ["Concert Performances", "Music Collaborations", "Songwriting", "Studio Sessions", "Music Festivals"],
+  "specialist_topics": ["Music Composition", "Lyricism"],
+  "interests": ["Music", "Nature", "Philanthropy"],
+  "price_per_hour": "AUD 200"
+},
+
+
+{
+  "name": "Joshua Lee",
+  "description": "As an acclaimed chef based in Melbourne, I am passionate about showcasing the diverse flavors of Australian cuisine. With a focus on local and seasonal ingredients, I create culinary experiences that delight the senses and celebrate the rich food culture of Australia.",
+  "based_in": "Melbourne, Australia",
+  "available_for": ["Cooking Demonstrations", "Food Festivals", "Private Dining", "TV Appearances", "Culinary Consultations"],
+  "specialist_topics": ["Australian Cuisine", "Farm-to-Table Cooking"],
+  "interests": ["Food", "Travel", "Photography"],
+  "price_per_hour": "AUD 350"
+},
+
+
+{
+  "name": "Sophie Nguyen",
+  "description": "With a deep understanding of the business world, I am a highly sought-after corporate speaker and leadership coach. I help individuals and organizations develop effective strategies, foster a culture of innovation, and unlock their full potential for success.",
+  "based_in": "Sydney, Australia",
+  "available_for": ["Keynote Speeches", "Leadership Workshops", "Corporate Retreats", "Panel Discussions", "Consulting"],
+  "specialist_topics": ["Business Strategy", "Leadership Development"],
+  "interests": ["Personal Growth", "Travel", "Philanthropy"],
+  "price_per_hour": "AUD 500"
+},
+
+
+{
+  "name": "Benjamin Scott",
+  "description": "With a knack for storytelling and a passion for filmmaking, I am an acclaimed director based in Sydney. My films have garnered critical acclaim and international recognition, exploring a wide range of genres and pushing the boundaries of visual storytelling.",
+  "based_in": "Sydney, Australia",
+  "available_for": ["Film Directing", "Screenwriting", "Film Festivals", "Workshops", "Film Premieres"],
+  "specialist_topics": ["Filmmaking", "Visual Storytelling"],
+  "interests": ["Cinema", "Art", "Travel"],
+  "price_per_hour": "AUD 400"
+},
+
+
+{
+  "name": "Isabella Murray",
+  "description": "As a respected journalist based in Melbourne, I am committed to uncovering the truth and shedding light on important stories. With a keen eye for detail and a passion for investigative reporting, I strive to make a meaningful impact through my work.",
+  "based_in": "Melbourne, Australia",
+  "available_for": ["Documentaries", "News Reporting", "Panel Discussions", "Keynote Speeches", "Writing Engagements"],
+  "specialist_topics": ["Investigative Journalism", "Current Affairs"],
+  "interests": ["Reading", "Social Issues", "Environmental Activism"],
+  "price_per_hour": "AUD 300"
+},
+
+
+{
+  "name": "Matthew Taylor",
+  "description": "With a background in sports and fitness, I am a renowned personal trainer and wellness coach based in Perth. I am dedicated to helping individuals achieve their health and fitness goals through personalized training programs and holistic lifestyle approaches.",
+  "based_in": "Perth, Australia",
+  "available_for": ["Personal Training", "Group Fitness Classes", "Wellness Retreats", "Health Workshops", "Fitness Consultations"],
+  "specialist_topics": ["Fitness Training", "Nutrition"],
+  "interests": ["Sports", "Nutrition", "Outdoor Activities"],
+  "price_per_hour": "AUD 200"
+},
+
+
+{
+  "name": "Emily Chen",
+  "description": "As a renowned author based in Sydney, I have captivated readers with my compelling stories and vivid imagination. My books span across various genres, from heartwarming romance to gripping thrillers, and I aim to transport readers into immersive worlds through my writing.",
+  "based_in": "Sydney, Australia",
+  "available_for": ["Book Signings", "Literary Festivals", "Writing Workshops", "Author Talks", "Book Club Engagements"],
+  "specialist_topics": ["Creative Writing", "Storytelling"],
+  "interests": ["Literature", "Travel", "Nature"],
+  "price_per_hour": "AUD 250"
+},
+
+
+{
+  "name": "Daniel Roberts",
+  "description": "With a background in marine biology and a passion for ocean conservation, I am dedicated to raising awareness about environmental issues and promoting sustainable practices. Through engaging presentations and educational initiatives, I strive to inspire individuals to protect our oceans and marine life.",
+  "based_in": "Gold Coast, Australia",
+  "available_for": ["Environmental Talks", "Marine Conservation Events", "Educational Workshops", "Research Collaborations", "Ocean Cleanup Initiatives"],
+  "specialist_topics": ["Marine Biology", "Ocean Conservation"],
+  "interests": ["Scuba Diving", "Surfing", "Outdoor Adventures"],
+  "price_per_hour": "AUD 300"
+},
+
+
+{
+  "name": "Sophia Evans",
+  "description": "As an accomplished ballet dancer, I have graced prestigious stages around the world with my grace and precision. With a deep passion for dance and a dedication to the art form, I aim to inspire audiences and push the boundaries of classical ballet.",
+  "based_in": "Melbourne, Australia",
+  "available_for": ["Ballet Performances", "Guest Appearances", "Workshops", "Masterclasses", "Choreography Collaborations"],
+  "specialist_topics": ["Classical Ballet", "Dance Technique"],
+  "interests": ["Art", "Music", "Fitness"],
+  "price_per_hour": "AUD 400"
+},
+
+
+{
+  "name": "Maxwell Cooper",
+  "description": "With a soulful voice and a passion for music, I have established myself as a sought-after singer-songwriter in the Australian music scene. From heartfelt ballads to energetic pop tunes, I aim to connect with listeners through authentic and emotive performances.",
+  "based_in": "Sydney, Australia",
+  "available_for": ["Concert Performances", "Music Collaborations", "Songwriting", "Studio Sessions", "Music Festivals"],
+  "specialist_topics": ["Songwriting", "Vocal Performance"],
+  "interests": ["Music", "Travel", "Nature"],
+  "price_per_hour": "AUD 250"
+},
+
+
+{
+  "name": "Isabella Taylor",
+  "description": "As an acclaimed fashion photographer, I have captured iconic images that have graced the pages of top fashion magazines. With an eye for style and a talent for storytelling, I create visually stunning and captivating photographs that evoke emotion and push artistic boundaries.",
+  "based_in": "Melbourne, Australia",
+  "available_for": ["Fashion Editorials", "Advertising Campaigns", "Portrait Photography", "Art Exhibitions", "Photography Workshops"],
+  "specialist_topics": ["Fashion Photography", "Creative Lighting"],
+  "interests": ["Art", "Fashion", "Travel"],
+  "price_per_hour": "AUD 350"
+},
+
+
+{
+  "name": "Noah Mitchell",
+  "description": "As an acclaimed stand-up comedian, I have brought laughter to audiences across Australia with my unique blend of humor and wit. With a keen observational eye and a talent for storytelling, I create comedic experiences that entertain and uplift.",
+  "based_in": "Sydney, Australia",
+  "available_for": ["Stand-up Comedy Shows", "Comedy Festivals", "Corporate Events", "TV Appearances", "Podcast Interviews"],
+  "specialist_topics": ["Comedy", "Storytelling"],
+  "interests": ["Film", "Music", "Travel"],
+  "price_per_hour": "AUD 300"
+},
+
+
+{
+  "name": "Ella Cooper",
+  "description": "As a renowned visual artist, I create thought-provoking and visually stunning artworks that explore themes of identity, culture, and social issues. My works have been exhibited in galleries around the world, sparking conversations and challenging perceptions.",
+  "based_in": "Melbourne, Australia",
+  "available_for": ["Art Exhibitions", "Public Art Installations", "Artist Talks", "Workshops", "Collaborative Projects"],
+  "specialist_topics": ["Visual Art", "Conceptual Art"],
+  "interests": ["Culture", "Nature", "Philosophy"],
+  "price_per_hour": "AUD 400"
+},
+
+
+{
+  "name": "Jacob Wilson",
+  "description": "With a passion for adventure and exploration, I have established myself as an acclaimed travel writer and photographer. Through my captivating stories and stunning visuals, I aim to inspire others to embrace the beauty and diversity of the world and embark on their own transformative journeys.",
+  "based_in": "Sydney, Australia",
+  "available_for": ["Travel Writing", "Photography Assignments", "Destination Features", "Travel Workshops", "Digital Content Creation"],
+  "specialist_topics": ["Travel", "Adventure Photography"],
+  "interests": ["Outdoor Adventures", "Cultural Immersion", "Sustainability"],
+  "price_per_hour": "AUD 300"
+},
+
+
+{
+  "name": "Ava Lewis",
+  "description": "As a celebrated chef and restaurateur, I am passionate about creating exceptional dining experiences that celebrate local flavors and sustainable practices. With a focus on farm-to-table cuisine and culinary innovation, I aim to tantalize taste buds and promote a more conscious approach to food.",
+  "based_in": "Melbourne, Australia",
+  "available_for": ["Restaurant Consultations", "Culinary Events", "Cooking Classes", "Food Festivals", "Menu Development"],
+  "specialist_topics": ["Gourmet Cuisine", "Sustainable Cooking"],
+  "interests": ["Food", "Travel", "Community Engagement"],
+  "price_per_hour": "AUD 400"
+},
+
+
+{
+  "name": "Mia Roberts",
+  "description": "With a background in psychology and a passion for personal development, I am a renowned life coach based in Sydney. I am dedicated to empowering individuals to unlock their full potential, achieve their goals, and live a fulfilling and purpose-driven life.",
+  "based_in": "Sydney, Australia",
+  "available_for": ["Life Coaching", "Motivational Speaking", "Workshops", "Retreats", "Online Courses"],
+  "specialist_topics": ["Personal Development", "Goal Setting"],
+  "interests": ["Psychology", "Mindfulness", "Wellness"],
+  "price_per_hour": "AUD 250"
+},
+
+
+{
+  "name": "Oscar Turner",
+  "description": "With a deep passion for wildlife and conservation, I am a respected wildlife photographer based in Perth. Through my lens, I capture the beauty and vulnerability of endangered species, aiming to raise awareness and inspire action to protect our natural world.",
+  "based_in": "Perth, Australia",
+  "available_for": ["Wildlife Photography", "Conservation Campaigns", "Photography Exhibitions", "Educational Workshops", "Nature Documentaries"],
+  "specialist_topics": ["Wildlife Conservation", "Nature Photography"],
+  "interests": ["Nature", "Travel", "Environmental Advocacy"],
+  "price_per_hour": "AUD 300"
+},
+
+
+{
+  "name": "Zoe Walker",
+  "description": "As a highly skilled contemporary dancer, I have mesmerized audiences with my expressive movements and dynamic performances. With a commitment to pushing the boundaries of dance, I aim to evoke emotion and ignite a sense of wonder through my artistry.",
+  "based_in": "Melbourne, Australia",
+  "available_for": ["Contemporary Dance Performances", "Choreography Collaborations", "Dance Workshops", "Artist Residencies", "Site-Specific Performances"],
+  "specialist_topics": ["Contemporary Dance", "Movement Exploration"],
+  "interests": ["Art", "Music", "Body-Mind Connection"],
+  "price_per_hour": "AUD 350"
+},
+
+
+{
+  "name": "Lucas Anderson",
+  "description": "With a charismatic stage presence and a powerful voice, I am a versatile singer and performer known for my captivating live performances. Whether it's soulful ballads or energetic pop hits, I bring passion and emotion to every song.",
+  "based_in": "Brisbane, Australia",
+  "available_for": ["Concert Performances", "Music Collaborations", "Wedding Ceremonies", "Corporate Events", "Private Parties"],
+  "specialist_topics": ["Vocal Performance", "Stage Presence"],
+  "interests": ["Music", "Travel", "Fitness"],
+  "price_per_hour": "AUD 500"
+},
+
+
+{
+  "name": "Eva Clarke",
+  "description": "As an acclaimed author and storyteller, I bring characters and worlds to life through the power of words. With a knack for crafting immersive narratives, I transport readers on unforgettable journeys of imagination and discovery.",
+  "based_in": "Sydney, Australia",
+  "available_for": ["Book Readings", "Storytelling Sessions", "Writing Workshops", "Literary Festivals", "School Visits"],
+  "specialist_topics": ["Creative Writing", "Story Development"],
+  "interests": ["Literature", "History", "Nature"],
+  "price_per_hour": "AUD 200"
+},
+
+
+{
+  "name": "Oliver Hughes",
+  "description": "With a deep passion for photography and a keen eye for detail, I am a sought-after professional photographer specializing in landscape and nature photography. Through my lens, I capture breathtaking moments and showcase the beauty of the natural world.",
+  "based_in": "Melbourne, Australia",
+  "available_for": ["Photography Assignments", "Print Sales", "Workshops", "Exhibitions", "Fine Art Commissions"],
+  "specialist_topics": ["Landscape Photography", "Nature Conservation"],
+  "interests": ["Travel", "Outdoor Adventures", "Conservation"],
+  "price_per_hour": "AUD 300"
+},
+
+
+{
+  "name": "Mia Patel",
+  "description": "As a renowned fashion stylist, I have an impeccable eye for style and a talent for creating captivating fashion ensembles. I curate unique looks that reflect individuality and inspire confidence, whether it's for editorial shoots, red carpet events, or personal styling consultations.",
+  "based_in": "Sydney, Australia",
+  "available_for": ["Fashion Styling", "Editorial Shoots", "Red Carpet Events", "Personal Shopping", "Fashion Consultations"],
+  "specialist_topics": ["Fashion Styling", "Trend Forecasting"],
+  "interests": ["Fashion", "Art", "Travel"],
+  "price_per_hour": "AUD 350"
+},
+
+
+{
+  "name": "Harper White",
+  "description": "With a passion for entrepreneurship and innovation, I have founded successful startups and guided aspiring entrepreneurs on their journeys. Through my consulting services, I help individuals and businesses develop strategies for growth, success, and impact.",
+  "based_in": "Melbourne, Australia",
+  "available_for": ["Startup Consulting", "Entrepreneurship Workshops", "Business Mentoring", "Pitch Coaching", "Innovation Events"],
+  "specialist_topics": ["Entrepreneurship", "Business Strategy"],
+  "interests": ["Technology", "Startups", "Social Impact"],
+  "price_per_hour": "AUD 1000"
+},
+
+
+{
+  "name": "Ethan Harris",
+  "description": "As an acclaimed film editor, I bring stories to life through the art of editing. With a keen understanding of pacing, rhythm, and visual storytelling, I create seamless and captivating narratives that captivate audiences and leave a lasting impact.",
+  "based_in": "Sydney, Australia",
+  "available_for": ["Film Editing", "Video Post-Production", "Creative Consultations", "Workshops", "Film Festivals"],
+  "specialist_topics": ["Film Editing", "Visual Storytelling"],
+  "interests": ["Cinema", "Technology", "Music"],
+  "price_per_hour": "AUD 800"
+},
+
+
+{
+  "name": "Ava Thompson",
+  "description": "As a renowned makeup artist, I have a passion for enhancing natural beauty and creating stunning transformations. From bridal looks to editorial shoots, I bring creativity, precision, and a touch of glamour to every makeup application.",
+  "based_in": "Melbourne, Australia",
+  "available_for": ["Makeup Artistry", "Bridal Makeup", "Editorial Shoots", "Fashion Shows", "Makeup Workshops"],
+  "specialist_topics": ["Makeup Artistry", "Beauty Trends"],
+  "interests": ["Fashion", "Beauty", "Art"],
+  "price_per_hour": "AUD 150"
+},
+
+
+{
+  "name": "William King",
+  "description": "With a natural talent for public speaking and a wealth of knowledge in personal development, I inspire and motivate audiences to reach their full potential. Through captivating speeches and interactive workshops, I empower individuals to overcome challenges and achieve success.",
+  "based_in": "Brisbane, Australia",
+  "available_for": ["Keynote Speeches", "Motivational Seminars", "Corporate Training", "Educational Events", "Conferences"],
+  "specialist_topics": ["Public Speaking", "Personal Development"],
+  "interests": ["Psychology", "Leadership", "Travel"],
+  "price_per_hour": "AUD 3000"
+},
+
+
+{
+  "name": "Grace Turner",
+  "description": "With a background in interior design and a keen eye for aesthetics, I create functional and stylish spaces that reflect my clients' vision and lifestyle. Whether it's residential or commercial projects, I bring creativity and attention to detail to every design endeavor.",
+  "based_in": "Sydney, Australia",
+  "available_for": ["Interior Design", "Space Planning", "Color Consultations", "Renovations", "Styling"],
+  "specialist_topics": ["Interior Design", "Home Décor"],
+  "interests": ["Art", "Architecture", "Travel"],
+  "price_per_hour": "AUD 500"
+},
+
+
+{
+  "name": "Logan Mitchell",
+  "description": "As a professional dancer and choreographer, I bring passion and creativity to the world of dance. From contemporary and hip-hop to ballet and jazz, I choreograph captivating routines that fuse technical precision with emotional expression.",
+  "based_in": "Melbourne, Australia",
+  "available_for": ["Choreography", "Dance Performances", "Workshops", "Dance Competitions", "Collaborations"],
+  "specialist_topics": ["Contemporary Dance", "Choreography"],
+  "interests": ["Music", "Art", "Fitness"],
+  "price_per_hour": "AUD 400"
+}]
